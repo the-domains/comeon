@@ -1,6 +1,6 @@
 name: comeon
 favicon: null
-layout_spectrum: 0.9337248047813773
+layout_spectrum: 0.89669
 typography_spectrum: 0.8426518505439162
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.028769046999514103
-  lightness: 0.8179189392831177
-  saturation: 0.8029847154393792
-  rhythmicContrast: 0.05447371141053736
+    - '#dcd7d3'
+    - '#644529'
+    - '#a6886c'
+    - '#6c9fa2'
+    - '#060606'
+  brandStrength: 0.25
+  lightness: 0.625
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
